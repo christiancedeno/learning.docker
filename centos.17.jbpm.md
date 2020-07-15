@@ -1,6 +1,6 @@
-====================
-== CentOs 7 64bit ==
-====================
+## CentOs 7 64bit
+---
+
 
   SO     : CentOS-7-x86_64-Minimal-1908
   Name   : CenSer17.jbpm
@@ -48,9 +48,11 @@ Disk01
   #192.168.56.17
   #Solo dejar la Lineas  
 
+```bash
   cd /etc/sysconfig/network-scripts
   cp ifcfg-eth0 ifcfg-eth0.old
   vi ifcfg-eth0
+```
 
 
   TYPE=Ethernet
