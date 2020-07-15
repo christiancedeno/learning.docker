@@ -9,15 +9,24 @@ Guia para aprender docker nivel basico
 ![Alt text](/images/img.jpg?raw=true "Optional Title")
 
 
----
-title: "Temporal"
-tags: ""
----
 
-hola
-
-```bash
-$hola
+## Java
+```java
+public final long join(long millis) {
+  return 0;
 }
 ```
 
+## C++
+```cpp
+int join(int millis) {
+  return 0;
+}
+```
+
+## Javascript
+```js
+function join(int millis) {
+  return 0;
+}
+```
