@@ -30,3 +30,9 @@ function join(int millis) {
   return 0;
 }
 ```
+## Ruby
+```ruby
+require 'redcarpet'
+markdown = Redcarpet.new("Hello World!")
+puts markdown.to_html
+```
