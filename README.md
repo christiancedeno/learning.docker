@@ -37,6 +37,9 @@ markdown = Redcarpet.new("Hello World!")
 puts markdown.to_html
 ```
 
+.highlight .gi { color: #070; }
+.highlight .gd { color: #911; }
+
 ```bash
 $vi actual.cmd
 ```
