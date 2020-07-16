@@ -10,6 +10,12 @@ Guia para aprender docker nivel basico
 
 ![](./images/img.jpg?raw=true "IM 140.6")
 
+http://github.com - automatic!
+[GitHub](http://github.com)
+
+[Instalacion de Centos 7](./centos.17.jbpm.md)
+
+
 ## Java
 ```java
 public final long join(long millis) {
