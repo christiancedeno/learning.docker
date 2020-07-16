@@ -1,5 +1,7 @@
 ## CentOs 7 64bit
 ---
+**Caracteristicas**
+
 **SO** : CentOS-7-x86_64-Minimal-1908  
 **Name** : CenSer17.jbpm  
 **CPU** : 1  
