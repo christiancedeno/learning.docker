@@ -1,5 +1,5 @@
 ---
-typora-root-url: images
+
 ---
 
 # Learning Docker
@@ -8,9 +8,7 @@ Guia para aprender docker nivel basico
 
 ![](https://img.shields.io/github/stars/christiancedeno/learning.docker.svg) ![](https://img.shields.io/github/forks/pandao/editor.md.svg) ![](https://img.shields.io/github/tag/pandao/editor.md.svg) ![](https://img.shields.io/github/release/pandao/editor.md.svg) ![](https://img.shields.io/github/issues/pandao/editor.md.svg) ![](https://img.shields.io/bower/v/editor.md.svg)![](https://img.shields.io/github/license/christiancedeno/learning.docker)
 
-![](/images/img.jpg?raw=true "IM 140.6")
-
-![img](/img.jpg)
+![](./images/img.jpg?raw=true "IM 140.6")
 
 ## Java
 ```java
